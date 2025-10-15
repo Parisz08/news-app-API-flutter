@@ -306,6 +306,7 @@ class DetailPage extends StatelessWidget {
       return dateString;
     }
   }
+  
 
   void _launchURL(String url) async {
     if (url.isNotEmpty) {
